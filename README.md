@@ -1,8 +1,9 @@
-Eurorack Busboard
-=================
+Eurorack/Kosmo Busboards
+========================
 
-A eurorack power bus board in Kicad.
+* [busboard](busboard): A Eurorack power bus board in Kicad.
+Size 31.5 x 200 mm.
+* [busboard10](busboard10): 2x5 pin connector ±12V adaptation.
+Size 26 x 200 mm.
 
-Size 31.5 x 200mm.
-
-![picture](docs/photo.jpg)
+![picture](docs/busboard10.png)
