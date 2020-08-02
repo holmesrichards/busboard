@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/scratch/Bus board/busboard10/busboard10.sch</source>
+    <date>Sun 02 Aug 2020 11:37:44 AM EDT</date>
+    <tool>Eeschema 5.1.6-c6e7f7d~86~ubuntu18.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>busboard10.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R2">
+      <value>2K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA8ED59</tstamp>
+    </comp>
+    <comp ref="-12v1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA8FFBD</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>2K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA91189</tstamp>
+    </comp>
+    <comp ref="+12v1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA91196</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F28F3B9</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F29DC16</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2A1E26</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2A1E56</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2A8790</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2A87C0</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2DAF30</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2DAF60</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2DF45E</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2DF48E</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2E4688</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>Synth_power_2x5_narrow</value>
+      <footprint>ao_tht:Power_Header</footprint>
+      <libsource lib="busboard10" part="Synth_power_2x5_narrow" description="2x5 IDC connector (Eurorack style power header)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2E46B8</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x03</value>
+      <footprint>ao_tht:TerminalBlock_Degson_DG301_1x03_P5.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2E8FD5</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="busboard10" part="Synth_power_2x5_narrow">
+      <description>2x5 IDC connector (Eurorack style power header)</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Synth_power_2x5_narrow</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-12V" type="passive"/>
+        <pin num="2" name="-12V" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="+12V" type="passive"/>
+        <pin num="10" name="+12V" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="busboard10">
+      <uri>/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/scratch/Bus board/busboard10/busboard10.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="-12V">
+      <node ref="J7" pin="2"/>
+      <node ref="J7" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="-12v1" pin="1"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J11" pin="1"/>
+      <node ref="J11" pin="2"/>
+      <node ref="J12" pin="1"/>
+      <node ref="J12" pin="2"/>
+      <node ref="J10" pin="1"/>
+      <node ref="J13" pin="1"/>
+      <node ref="J6" pin="1"/>
+      <node ref="J6" pin="2"/>
+      <node ref="J10" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="J5" pin="2"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J9" pin="2"/>
+      <node ref="J9" pin="1"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J4" pin="2"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J8" pin="1"/>
+      <node ref="J8" pin="2"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="J7" pin="9"/>
+      <node ref="J10" pin="10"/>
+      <node ref="J10" pin="9"/>
+      <node ref="J1" pin="9"/>
+      <node ref="J9" pin="10"/>
+      <node ref="J4" pin="9"/>
+      <node ref="J8" pin="9"/>
+      <node ref="J9" pin="9"/>
+      <node ref="J5" pin="10"/>
+      <node ref="J5" pin="9"/>
+      <node ref="R1" pin="2"/>
+      <node ref="J3" pin="9"/>
+      <node ref="J7" pin="10"/>
+      <node ref="J3" pin="10"/>
+      <node ref="J1" pin="10"/>
+      <node ref="J2" pin="10"/>
+      <node ref="J4" pin="10"/>
+      <node ref="J6" pin="10"/>
+      <node ref="J12" pin="10"/>
+      <node ref="J13" pin="3"/>
+      <node ref="J6" pin="9"/>
+      <node ref="J2" pin="9"/>
+      <node ref="J12" pin="9"/>
+      <node ref="J8" pin="10"/>
+      <node ref="J11" pin="9"/>
+      <node ref="J11" pin="10"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="J11" pin="7"/>
+      <node ref="J9" pin="8"/>
+      <node ref="J9" pin="7"/>
+      <node ref="J11" pin="6"/>
+      <node ref="J11" pin="8"/>
+      <node ref="+12v1" pin="1"/>
+      <node ref="J8" pin="3"/>
+      <node ref="J9" pin="5"/>
+      <node ref="J9" pin="4"/>
+      <node ref="J9" pin="3"/>
+      <node ref="J8" pin="4"/>
+      <node ref="J8" pin="5"/>
+      <node ref="J8" pin="6"/>
+      <node ref="J8" pin="7"/>
+      <node ref="J8" pin="8"/>
+      <node ref="J9" pin="6"/>
+      <node ref="J5" pin="8"/>
+      <node ref="J5" pin="7"/>
+      <node ref="J5" pin="6"/>
+      <node ref="J5" pin="5"/>
+      <node ref="J5" pin="4"/>
+      <node ref="J5" pin="3"/>
+      <node ref="J3" pin="8"/>
+      <node ref="J3" pin="7"/>
+      <node ref="J3" pin="6"/>
+      <node ref="J3" pin="5"/>
+      <node ref="J3" pin="4"/>
+      <node ref="J3" pin="3"/>
+      <node ref="J4" pin="3"/>
+      <node ref="J4" pin="4"/>
+      <node ref="J10" pin="3"/>
+      <node ref="J6" pin="3"/>
+      <node ref="J6" pin="4"/>
+      <node ref="J6" pin="5"/>
+      <node ref="J10" pin="8"/>
+      <node ref="J10" pin="7"/>
+      <node ref="J10" pin="6"/>
+      <node ref="J10" pin="5"/>
+      <node ref="J10" pin="4"/>
+      <node ref="J6" pin="7"/>
+      <node ref="J6" pin="8"/>
+      <node ref="J12" pin="8"/>
+      <node ref="J12" pin="3"/>
+      <node ref="J12" pin="4"/>
+      <node ref="J12" pin="5"/>
+      <node ref="J12" pin="6"/>
+      <node ref="J12" pin="7"/>
+      <node ref="J1" pin="8"/>
+      <node ref="J13" pin="2"/>
+      <node ref="J4" pin="8"/>
+      <node ref="J4" pin="7"/>
+      <node ref="J4" pin="6"/>
+      <node ref="J2" pin="8"/>
+      <node ref="J2" pin="3"/>
+      <node ref="J2" pin="5"/>
+      <node ref="J2" pin="6"/>
+      <node ref="J2" pin="7"/>
+      <node ref="R2" pin="1"/>
+      <node ref="J2" pin="4"/>
+      <node ref="J11" pin="3"/>
+      <node ref="J11" pin="4"/>
+      <node ref="J11" pin="5"/>
+      <node ref="J1" pin="7"/>
+      <node ref="J1" pin="6"/>
+      <node ref="J1" pin="5"/>
+      <node ref="J1" pin="4"/>
+      <node ref="J1" pin="3"/>
+      <node ref="J7" pin="4"/>
+      <node ref="J4" pin="5"/>
+      <node ref="J6" pin="6"/>
+      <node ref="J7" pin="8"/>
+      <node ref="J7" pin="7"/>
+      <node ref="J7" pin="6"/>
+      <node ref="J7" pin="5"/>
+      <node ref="J7" pin="3"/>
+    </net>
+    <net code="4" name="Net-(+12v1-Pad2)">
+      <node ref="+12v1" pin="2"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="5" name="Net-(-12v1-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="-12v1" pin="2"/>
+    </net>
+  </nets>
+</export>
