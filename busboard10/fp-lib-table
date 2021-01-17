@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ao_tht)(type KiCad)(uri ${KIPRJMOD}/ao_tht.pretty)(options "")(descr ""))
+  (lib (name busboard10)(type KiCad)(uri ${KIPRJMOD}/busboard10.pretty)(options "")(descr ""))
+)

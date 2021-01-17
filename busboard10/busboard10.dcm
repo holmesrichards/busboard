@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Synth_power_2x5_narrow
+D 2x5 IDC connector (Eurorack style power header)
+$ENDCMP
+#
+#End Doc Library
